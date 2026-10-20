@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "astana-places": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["mcp_server/server.py", "--stdio"]
+    },
+    "astana-places-cloud": {
+      "type": "http",
+      "url": "https://astana-places-84430726061.us-central1.run.app/mcp"
+    }
+  }
+}

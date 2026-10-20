@@ -1,0 +1,69 @@
+{
+ "collected_at": "2026-10-19T17:53:22+00:00",
+ "bbox": {
+  "south": 50.98,
+  "west": 71.2,
+  "north": 51.3,
+  "east": 71.75
+ },
+ "total": 1317,
+ "anchors": 143,
+ "by_source": {
+  "OpenStreetMap": 1278,
+  "Wikidata": 39
+ },
+ "by_category": {
+  "cafe": 349,
+  "playground": 347,
+  "restaurant": 175,
+  "park": 126,
+  "bar": 106,
+  "mall": 51,
+  "monument": 49,
+  "attraction": 35,
+  "worship": 12,
+  "theatre": 11,
+  "cinema": 10,
+  "museum": 9,
+  "library": 8,
+  "arts_centre": 7,
+  "garden": 4,
+  "nightclub": 3,
+  "square": 3,
+  "gallery": 2,
+  "ice_rink": 2,
+  "aquarium": 1,
+  "arcade": 1,
+  "bowling": 1,
+  "coworking": 1,
+  "escape_game": 1,
+  "theme_park": 1,
+  "viewpoint": 1,
+  "water_park": 1
+ },
+ "coverage_pct": {
+  "named": 66.7,
+  "opening_hours": 20.4,
+  "wheelchair": 4.7,
+  "contacts": 13.1,
+  "description_wikipedia": 4.6,
+  "description_osm": 0.1,
+  "description_from_tags": 95.3,
+  "possibly_closed": 0.0
+ },
+ "sources": [
+  {
+   "name": "OpenStreetMap via Overpass API",
+   "license": "ODbL 1.0",
+   "attribution": "© OpenStreetMap contributors"
+  },
+  {
+   "name": "Wikidata",
+   "license": "CC0 1.0"
+  },
+  {
+   "name": "Wikipedia",
+   "license": "CC BY-SA 4.0"
+  }
+ ]
+}

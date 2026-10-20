@@ -1,0 +1,12 @@
+.git/
+.github/
+.venv/
+agent/
+collector/
+docs/
+deploy/
+.claude/
+submission/
+*.md
+**/__pycache__/
+.env
