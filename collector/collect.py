@@ -26,7 +26,7 @@ OVERPASS = [
 QUERY = """
 [out:json][timeout:300][bbox:{0},{1},{2},{3}];
 (
-  nwr["amenity"~"^(cafe|restaurant|bar|pub|nightclub|karaoke_box|cinema|theatre|arts_centre|library|planetarium|coworking_space)$"];
+  nwr["amenity"~"^(cafe|restaurant|bar|pub|nightclub|karaoke_box|cinema|theatre|arts_centre|exhibition_centre|library|planetarium|coworking_space)$"];
   nwr["tourism"~"^(museum|gallery|attraction|viewpoint|zoo|aquarium|theme_park)$"];
   nwr["leisure"~"^(park|garden|playground|water_park|ice_rink|bowling_alley|escape_game|amusement_arcade|trampoline_park)$"];
   nwr["shop"="mall"];
@@ -65,6 +65,7 @@ RULES = [
     ("amenity", {"theatre"}, "theatre"),
     ("amenity", {"cinema"}, "cinema"),
     ("amenity", {"arts_centre"}, "arts_centre"),
+    ("amenity", {"exhibition_centre"}, "exhibition"),
     ("amenity", {"library"}, "library"),
     ("amenity", {"coworking_space"}, "coworking"),
     ("office", {"coworking"}, "coworking"),
@@ -102,7 +103,7 @@ WD_TYPES = [
     ("sculpture", "monument"), ("tower", "attraction"), ("palace", "attraction"), ("pyramid", "attraction"),
     ("château", "attraction"), ("official residence", "attraction"), ("world's fair", "attraction"),
     ("children's railway", "attraction"), ("skyscraper", "attraction"), ("bridge", "attraction"),
-    ("ice rink", "ice_rink"), ("stadium", "attraction"), ("arena", "attraction"), ("exhibition", "attraction"),
+    ("ice rink", "ice_rink"), ("stadium", "attraction"), ("arena", "attraction"), ("exhibition", "exhibition"),
     ("tourist attraction", "attraction"), ("landmark", "attraction"), ("building", "attraction"),
 ]
 WD_SKIP = (
@@ -118,7 +119,7 @@ LABELS = {
     "museum": "Музей", "gallery": "Галерея", "planetarium": "Планетарий", "zoo": "Зоопарк",
     "aquarium": "Океанариум", "theme_park": "Парк развлечений", "water_park": "Аквапарк",
     "viewpoint": "Смотровая площадка", "theatre": "Театр", "cinema": "Кинотеатр",
-    "arts_centre": "Арт-центр", "library": "Библиотека", "coworking": "Коворкинг",
+    "arts_centre": "Арт-центр", "exhibition": "Выставочный центр", "library": "Библиотека", "coworking": "Коворкинг",
     "nightclub": "Ночной клуб", "karaoke": "Караоке", "bar": "Бар", "cafe": "Кафе",
     "restaurant": "Ресторан", "mall": "Торговый центр", "ice_rink": "Каток", "bowling": "Боулинг",
     "escape_game": "Квест-комната", "arcade": "Игровой зал", "trampoline_park": "Батутный центр",
@@ -128,7 +129,7 @@ LABELS = {
 UNNAMED = {"playground": "Детская площадка", "park": "Сквер", "viewpoint": "Смотровая точка", "ice_rink": "Каток"}
 INDOOR = {
     "museum", "gallery", "planetarium", "aquarium", "water_park", "theatre", "cinema", "arts_centre",
-    "library", "coworking", "nightclub", "karaoke", "bar", "cafe", "restaurant", "mall", "bowling",
+    "exhibition", "library", "coworking", "nightclub", "karaoke", "bar", "cafe", "restaurant", "mall", "bowling",
     "escape_game", "arcade", "trampoline_park", "worship",
 }
 OUTDOOR = {"zoo", "theme_park", "viewpoint", "park", "garden", "playground", "monument", "square"}

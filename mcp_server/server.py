@@ -8,7 +8,7 @@ from pydantic import Field
 import places
 
 CATEGORIES = (
-    "cafe, restaurant, bar, nightclub, karaoke, cinema, theatre, arts_centre, library, coworking, museum, gallery, "
+    "cafe, restaurant, bar, nightclub, karaoke, cinema, theatre, arts_centre, exhibition, library, coworking, museum, gallery, "
     "planetarium, attraction, viewpoint, monument, square, park, garden, playground, zoo, aquarium, theme_park, "
     "water_park, mall, ice_rink, bowling, escape_game, arcade, trampoline_park, worship"
 )

@@ -1,15 +1,15 @@
 {
- "collected_at": "2026-10-19T17:53:22+00:00",
+ "collected_at": "2026-10-20T07:39:46+00:00",
  "bbox": {
   "south": 50.98,
   "west": 71.2,
   "north": 51.3,
   "east": 71.75
  },
- "total": 1317,
+ "total": 1318,
  "anchors": 143,
  "by_source": {
-  "OpenStreetMap": 1278,
+  "OpenStreetMap": 1279,
   "Wikidata": 39
  },
  "by_category": {
@@ -37,12 +37,13 @@
   "bowling": 1,
   "coworking": 1,
   "escape_game": 1,
+  "exhibition": 1,
   "theme_park": 1,
   "viewpoint": 1,
   "water_park": 1
  },
  "coverage_pct": {
-  "named": 66.7,
+  "named": 66.8,
   "opening_hours": 20.4,
   "wheelchair": 4.7,
   "contacts": 13.1,

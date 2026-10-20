@@ -28,7 +28,7 @@ MODES = {
 }
 VISIT = {
     "cafe": (30, 60), "restaurant": (60, 90), "bar": (60, 120), "nightclub": (120, 240), "karaoke": (90, 180),
-    "cinema": (120, 150), "theatre": (120, 180), "arts_centre": (60, 120), "library": (60, 120),
+    "cinema": (120, 150), "theatre": (120, 180), "arts_centre": (60, 120), "exhibition": (45, 90), "library": (60, 120),
     "coworking": (60, 180), "planetarium": (45, 60), "museum": (60, 90), "gallery": (30, 60),
     "attraction": (10, 30), "viewpoint": (10, 20), "zoo": (90, 150), "aquarium": (60, 90),
     "theme_park": (90, 180), "water_park": (120, 240), "park": (10, 45), "garden": (10, 30),
@@ -40,13 +40,14 @@ TYPICAL_HOURS = {
     "mall": "10:00-22:00", "cafe": "09:00-22:00", "restaurant": "11:00-23:00", "bar": "18:00-02:00",
     "nightclub": "22:00-05:00", "karaoke": "18:00-04:00", "cinema": "10:00-00:00", "gallery": "10:00-19:00",
     "museum": "10:00-18:00, часто выходной в понедельник", "theatre": "спектакли обычно вечером",
+    "exhibition": "10:00-18:00 в дни выставок",
     "library": "09:00-18:00", "coworking": "09:00-21:00", "aquarium": "10:00-20:00", "zoo": "10:00-19:00",
     "worship": "днём, во время молитв вход может быть ограничен", "attraction": "днём",
 }
 TYPICAL_RANGE = {
     "mall": "10:00-22:00", "cafe": "09:00-22:00", "restaurant": "11:00-23:00", "bar": "18:00-02:00",
     "nightclub": "22:00-05:00", "karaoke": "18:00-04:00", "cinema": "10:00-00:00", "museum": "10:00-18:00",
-    "gallery": "10:00-19:00", "library": "09:00-18:00", "coworking": "09:00-21:00", "aquarium": "10:00-20:00",
+    "gallery": "10:00-19:00", "exhibition": "10:00-18:00", "library": "09:00-18:00", "coworking": "09:00-21:00", "aquarium": "10:00-20:00",
     "zoo": "10:00-19:00", "theatre": "11:00-22:00", "attraction": "10:00-20:00", "worship": "06:00-21:00",
 }
 PUBLIC = {"park", "garden", "square", "monument", "playground", "viewpoint"}
