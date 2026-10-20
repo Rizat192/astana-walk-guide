@@ -4,6 +4,8 @@
 
 Проект сделан для хакатона Build with AI (GDG Astana, задача НИЦ Smart City).
 
+Демо-видео (1:48): https://youtu.be/3PqPOeECKJg
+
 ## Документы
 
 | Что | Где |
