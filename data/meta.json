@@ -1,23 +1,23 @@
 {
- "collected_at": "2026-10-20T07:39:46+00:00",
+ "collected_at": "2026-10-26T08:31:04+00:00",
  "bbox": {
   "south": 50.98,
   "west": 71.2,
   "north": 51.3,
   "east": 71.75
  },
- "total": 1318,
+ "total": 1320,
  "anchors": 143,
  "by_source": {
-  "OpenStreetMap": 1279,
-  "Wikidata": 39
+  "OpenStreetMap": 1282,
+  "Wikidata": 38
  },
  "by_category": {
   "cafe": 349,
-  "playground": 347,
+  "playground": 346,
   "restaurant": 175,
-  "park": 126,
-  "bar": 106,
+  "park": 129,
+  "bar": 107,
   "mall": 51,
   "monument": 49,
   "attraction": 35,
@@ -29,9 +29,9 @@
   "arts_centre": 7,
   "garden": 4,
   "nightclub": 3,
-  "square": 3,
   "gallery": 2,
   "ice_rink": 2,
+  "square": 2,
   "aquarium": 1,
   "arcade": 1,
   "bowling": 1,
@@ -43,13 +43,13 @@
   "water_park": 1
  },
  "coverage_pct": {
-  "named": 66.8,
-  "opening_hours": 20.4,
+  "named": 66.7,
+  "opening_hours": 20.5,
   "wheelchair": 4.7,
   "contacts": 13.1,
-  "description_wikipedia": 4.6,
+  "description_wikipedia": 4.5,
   "description_osm": 0.1,
-  "description_from_tags": 95.3,
+  "description_from_tags": 95.4,
   "possibly_closed": 0.0
  },
  "sources": [
