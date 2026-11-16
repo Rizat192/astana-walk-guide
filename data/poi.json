@@ -246,7 +246,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%28%D0%BA%D0%BE%D0%BD%D1%86%D0%B5%D1%80%D1%82%D0%BD%D1%8B%D0%B9_%D0%B7%D0%B0%D0%BB%29",
   "wikidata": "Q4230441",
   "wikipedia": null,
-  "wiki_views_60d": 241,
+  "wiki_views_60d": 244,
   "possibly_closed": false
  },
  {
@@ -361,7 +361,7 @@
   "description_url": "https://en.wikipedia.org/wiki/Grand_Alatau",
   "wikidata": "Q1542507",
   "wikipedia": null,
-  "wiki_views_60d": 161,
+  "wiki_views_60d": 147,
   "possibly_closed": false
  },
  {
@@ -415,7 +415,7 @@
   "description_url": "https://en.wikipedia.org/wiki/Qara%C3%B6tkel_Bridge",
   "wikidata": "Q28402868",
   "wikipedia": null,
-  "wiki_views_60d": 76,
+  "wiki_views_60d": 65,
   "possibly_closed": false
  },
  {
@@ -442,7 +442,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/Talan_Towers",
   "wikidata": "Q25495527",
   "wikipedia": null,
-  "wiki_views_60d": 237,
+  "wiki_views_60d": 239,
   "possibly_closed": false
  },
  {
@@ -469,7 +469,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BA%D0%BE%D1%80%D0%B4%D0%B0_%28%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D1%8F%29",
   "wikidata": "Q413579",
   "wikipedia": null,
-  "wiki_views_60d": 1994,
+  "wiki_views_60d": 2021,
   "possibly_closed": false
  },
  {
@@ -496,7 +496,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D1%8B%D1%81_%D0%90%D1%80%D0%B5%D0%BD%D0%B0",
   "wikidata": "Q16632800",
   "wikipedia": null,
-  "wiki_views_60d": 3023,
+  "wiki_views_60d": 2872,
   "possibly_closed": false
  },
  {
@@ -523,7 +523,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0_%D0%BA%D1%83%D0%BF%D1%86%D0%B0_%D0%A1%D1%82%D0%B5%D0%BF%D0%B0%D0%BD%D0%B0_%D0%9A%D1%83%D0%B1%D1%80%D0%B8%D0%BD%D0%B0",
   "wikidata": "Q97165482",
   "wikipedia": null,
-  "wiki_views_60d": 50,
+  "wiki_views_60d": 58,
   "possibly_closed": false
  },
  {
@@ -550,7 +550,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D1%80%D0%B5%D1%86_%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8_%28%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0%29",
   "wikidata": "Q4155890",
   "wikipedia": null,
-  "wiki_views_60d": 306,
+  "wiki_views_60d": null,
   "possibly_closed": false
  },
  {
@@ -14599,7 +14599,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B0%D1%83_%28%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B4%D0%B2%D0%BE%D1%80%D0%B5%D1%86%29",
   "wikidata": "Q1072092",
   "wikipedia": null,
-  "wiki_views_60d": 227,
+  "wiki_views_60d": 226,
   "possibly_closed": false
  },
  {
@@ -14878,7 +14878,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D1%83-%D0%94%D0%B0%D0%B1%D0%B8_%D0%9F%D0%BB%D0%B0%D0%B7%D0%B0",
   "wikidata": "Q1073433",
   "wikipedia": "en:Abu Dhabi Plaza",
-  "wiki_views_60d": 2468,
+  "wiki_views_60d": 2349,
   "possibly_closed": false
  },
  {
@@ -15052,8 +15052,8 @@
   "named": true,
   "category": "mall",
   "category_ru": "Торговый центр",
-  "lat": 51.114774,
-  "lon": 71.52679,
+  "lat": 51.114797,
+  "lon": 71.526894,
   "features": [],
   "indoor": true,
   "opening_hours": null,
@@ -16378,35 +16378,6 @@
   "possibly_closed": false
  },
  {
-  "id": "osm:node/4958412863",
-  "source": "OpenStreetMap",
-  "source_url": "https://www.openstreetmap.org/node/4958412863",
-  "name": "Zur Sultan",
-  "names": {
-   "en": "Zul Sultan"
-  },
-  "named": true,
-  "category": "monument",
-  "category_ru": "Памятник",
-  "lat": 51.131818,
-  "lon": 71.407718,
-  "features": [],
-  "indoor": false,
-  "opening_hours": null,
-  "hours_checked": null,
-  "wheelchair": null,
-  "address": null,
-  "phone": null,
-  "website": null,
-  "description": "Памятник.",
-  "description_source": "tags",
-  "description_url": null,
-  "wikidata": null,
-  "wikipedia": null,
-  "wiki_views_60d": null,
-  "possibly_closed": false
- },
- {
   "id": "osm:node/3743119878",
   "source": "OpenStreetMap",
   "source_url": "https://www.openstreetmap.org/node/3743119878",
@@ -16605,7 +16576,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/%D0%91%D0%B0%D0%B9%D1%82%D0%B5%D1%80%D0%B5%D0%BA_%28%D0%BC%D0%BE%D0%BD%D1%83%D0%BC%D0%B5%D0%BD%D1%82%29",
   "wikidata": "Q804210",
   "wikipedia": "kk:Бәйтерек (монумент)",
-  "wiki_views_60d": 6014,
+  "wiki_views_60d": 5839,
   "possibly_closed": false
  },
  {
@@ -17460,6 +17431,33 @@
   "possibly_closed": false
  },
  {
+  "id": "osm:node/4958412863",
+  "source": "OpenStreetMap",
+  "source_url": "https://www.openstreetmap.org/node/4958412863",
+  "name": "Счастье мое",
+  "names": {},
+  "named": true,
+  "category": "monument",
+  "category_ru": "Памятник",
+  "lat": 51.131789,
+  "lon": 71.40811,
+  "features": [],
+  "indoor": false,
+  "opening_hours": null,
+  "hours_checked": null,
+  "wheelchair": null,
+  "address": null,
+  "phone": null,
+  "website": null,
+  "description": "Памятник.",
+  "description_source": "tags",
+  "description_url": null,
+  "wikidata": null,
+  "wikipedia": null,
+  "wiki_views_60d": null,
+  "possibly_closed": false
+ },
+ {
   "id": "osm:way/549307755",
   "source": "OpenStreetMap",
   "source_url": "https://www.openstreetmap.org/way/549307755",
@@ -17486,7 +17484,7 @@
   "description_url": "https://en.wikipedia.org/wiki/M%C3%A4%C3%B1g%C4%B1l%C4%B1k_El_Triumphal_Arch",
   "wikidata": "Q42422896",
   "wikipedia": "en:Mäñgilik El Triumphal Arch",
-  "wiki_views_60d": 188,
+  "wiki_views_60d": 177,
   "possibly_closed": false
  },
  {
@@ -17680,7 +17678,7 @@
   "description_url": "https://en.wikipedia.org/wiki/National_Military-Patriotic_Center_of_the_Armed_Forces_of_Kazakhstan",
   "wikidata": "Q85787940",
   "wikipedia": null,
-  "wiki_views_60d": 79,
+  "wiki_views_60d": 85,
   "possibly_closed": false
  },
  {
@@ -17917,7 +17915,7 @@
   "description_url": "https://kk.wikipedia.org/wiki/%D0%90%D1%82%D0%B0%D0%BC%D0%B5%D0%BA%D0%B5%D0%BD_%28%D0%BC%D2%B1%D1%80%D0%B0%D0%B6%D0%B0%D0%B9%29",
   "wikidata": "Q1454511",
   "wikipedia": "kk:Атамекен (мұражай)",
-  "wiki_views_60d": 27,
+  "wiki_views_60d": 25,
   "possibly_closed": false
  },
  {
@@ -18002,60 +18000,6 @@
   "possibly_closed": false
  },
  {
-  "id": "osm:way/1450732938",
-  "source": "OpenStreetMap",
-  "source_url": "https://www.openstreetmap.org/way/1450732938",
-  "name": "Greenline",
-  "names": {},
-  "named": true,
-  "category": "park",
-  "category_ru": "Парк",
-  "lat": 51.135854,
-  "lon": 71.382193,
-  "features": [],
-  "indoor": false,
-  "opening_hours": null,
-  "hours_checked": null,
-  "wheelchair": null,
-  "address": null,
-  "phone": null,
-  "website": null,
-  "description": "Парк.",
-  "description_source": "tags",
-  "description_url": null,
-  "wikidata": null,
-  "wikipedia": null,
-  "wiki_views_60d": null,
-  "possibly_closed": false
- },
- {
-  "id": "osm:way/1534678435",
-  "source": "OpenStreetMap",
-  "source_url": "https://www.openstreetmap.org/way/1534678435",
-  "name": "Greenline",
-  "names": {},
-  "named": true,
-  "category": "park",
-  "category_ru": "Парк",
-  "lat": 51.136677,
-  "lon": 71.376993,
-  "features": [],
-  "indoor": false,
-  "opening_hours": null,
-  "hours_checked": null,
-  "wheelchair": null,
-  "address": null,
-  "phone": null,
-  "website": null,
-  "description": "Парк.",
-  "description_source": "tags",
-  "description_url": null,
-  "wikidata": null,
-  "wikipedia": null,
-  "wiki_views_60d": null,
-  "possibly_closed": false
- },
- {
   "id": "osm:way/1467797207",
   "source": "OpenStreetMap",
   "source_url": "https://www.openstreetmap.org/way/1467797207",
@@ -18066,6 +18010,60 @@
   "category_ru": "Парк",
   "lat": 51.08727,
   "lon": 71.399439,
+  "features": [],
+  "indoor": false,
+  "opening_hours": null,
+  "hours_checked": null,
+  "wheelchair": null,
+  "address": null,
+  "phone": null,
+  "website": null,
+  "description": "Парк.",
+  "description_source": "tags",
+  "description_url": null,
+  "wikidata": null,
+  "wikipedia": null,
+  "wiki_views_60d": null,
+  "possibly_closed": false
+ },
+ {
+  "id": "osm:relation/22068929",
+  "source": "OpenStreetMap",
+  "source_url": "https://www.openstreetmap.org/relation/22068929",
+  "name": "Аллея GreenLine",
+  "names": {},
+  "named": true,
+  "category": "park",
+  "category_ru": "Парк",
+  "lat": 51.133538,
+  "lon": 71.397571,
+  "features": [],
+  "indoor": false,
+  "opening_hours": null,
+  "hours_checked": null,
+  "wheelchair": null,
+  "address": null,
+  "phone": null,
+  "website": null,
+  "description": "Парк.",
+  "description_source": "tags",
+  "description_url": null,
+  "wikidata": null,
+  "wikipedia": null,
+  "wiki_views_60d": null,
+  "possibly_closed": false
+ },
+ {
+  "id": "osm:relation/22068930",
+  "source": "OpenStreetMap",
+  "source_url": "https://www.openstreetmap.org/relation/22068930",
+  "name": "Аллея GreenLine",
+  "names": {},
+  "named": true,
+  "category": "park",
+  "category_ru": "Парк",
+  "lat": 51.135185,
+  "lon": 71.387033,
   "features": [],
   "indoor": false,
   "opening_hours": null,
@@ -18140,7 +18138,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4",
   "wikidata": "Q104866948",
   "wikipedia": "kk:Ботаникалық бақ (Астана)",
-  "wiki_views_60d": 286,
+  "wiki_views_60d": 262,
   "possibly_closed": false
  },
  {
@@ -21235,33 +21233,6 @@
   "category_ru": "Парк",
   "lat": 51.084137,
   "lon": 71.394286,
-  "features": [],
-  "indoor": false,
-  "opening_hours": null,
-  "hours_checked": null,
-  "wheelchair": null,
-  "address": null,
-  "phone": null,
-  "website": null,
-  "description": "Парк.",
-  "description_source": "tags",
-  "description_url": null,
-  "wikidata": null,
-  "wikipedia": null,
-  "wiki_views_60d": null,
-  "possibly_closed": false
- },
- {
-  "id": "osm:way/1571653191",
-  "source": "OpenStreetMap",
-  "source_url": "https://www.openstreetmap.org/way/1571653191",
-  "name": "Сквер",
-  "names": {},
-  "named": false,
-  "category": "park",
-  "category_ru": "Парк",
-  "lat": 51.133611,
-  "lon": 71.396554,
   "features": [],
   "indoor": false,
   "opening_hours": null,
@@ -24421,7 +24392,7 @@
   "category": "playground",
   "category_ru": "Детская площадка",
   "lat": 51.130512,
-  "lon": 71.38996,
+  "lon": 71.389961,
   "features": [],
   "indoor": false,
   "opening_hours": null,
@@ -35823,7 +35794,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80_%D0%9D%D1%83%D1%80%D0%B6%D0%BE%D0%BB",
   "wikidata": "Q713955",
   "wikipedia": null,
-  "wiki_views_60d": null,
+  "wiki_views_60d": 324,
   "possibly_closed": false
  },
  {
@@ -35936,7 +35907,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B0_%D0%9E%D0%BF%D0%B5%D1%80%D0%B0",
   "wikidata": "Q21371563",
   "wikipedia": "en:Astana Opera",
-  "wiki_views_60d": 770,
+  "wiki_views_60d": 805,
   "possibly_closed": false
  },
  {
@@ -35990,7 +35961,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/%D0%90%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%86%D0%B8%D1%80%D0%BA",
   "wikidata": "Q21843144",
   "wikipedia": null,
-  "wiki_views_60d": 135,
+  "wiki_views_60d": 152,
   "possibly_closed": false
  },
  {
@@ -36294,7 +36265,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D0%B8%D1%88_%D0%B0%D1%82%D0%B0_%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D0%B1%D0%B0%D0%B9",
   "wikidata": "Q120868806",
   "wikipedia": null,
-  "wiki_views_60d": 58,
+  "wiki_views_60d": 62,
   "possibly_closed": false
  },
  {
@@ -36321,7 +36292,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B6%D0%B0%D0%BD_%D0%B0%D0%BD%D0%B0_%28%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C%29",
   "wikidata": "Q120868807",
   "wikipedia": null,
-  "wiki_views_60d": 83,
+  "wiki_views_60d": 88,
   "possibly_closed": false
  },
  {
@@ -36352,7 +36323,7 @@
   "description_url": "https://en.wikipedia.org/wiki/Beit_Rachel_Synagogue%2C_Astana",
   "wikidata": "Q42416691",
   "wikipedia": null,
-  "wiki_views_60d": 223,
+  "wiki_views_60d": 222,
   "possibly_closed": false
  },
  {
@@ -36410,7 +36381,7 @@
   "description_url": "https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D1%83_%D0%9D%D0%B0%D1%81%D1%8B%D1%80%D0%B0_%D0%B0%D0%BB%D1%8C-%D0%A4%D0%B0%D1%80%D0%B0%D0%B1%D0%B8_%28%D0%BC%D0%B5%D1%87%D0%B5%D1%82%D1%8C%29",
   "wikidata": "Q1813417",
   "wikipedia": null,
-  "wiki_views_60d": 471,
+  "wiki_views_60d": 442,
   "possibly_closed": false
  },
  {
